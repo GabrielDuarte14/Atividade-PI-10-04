@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 97vh;
+}
+.grafico{
+    position: relative; 
+    height: 40vh;   
+    width: 40vw;
+}
